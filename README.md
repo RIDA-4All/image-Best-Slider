@@ -33,3 +33,5 @@ Custom CSS rules are defined to style the Slick.js slider and its components.
 The styles include button placement, dots styling, image size, and transition effects.
 # Link Styling:
 The <a> elements within the image cards are styled with text decoration removal, font styles, and background color changes on hover.
+# live link
+ https://rida-4all.github.io/image-Best-Slider/
